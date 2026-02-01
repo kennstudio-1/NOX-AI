@@ -1,0 +1,2 @@
+# NOX-AI
+nox ai
