@@ -1,2 +1,1 @@
-# NOX-AI
-nox ai
+Experimental AI conversational experience
